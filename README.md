@@ -1,5 +1,5 @@
 # hello-world
-sample repository
+
 
 this is a sample repository created to use and get familiarised with github. Git is a version control system and Github works with git.
 To start with, install/update git in your system. Create a user(user.add) and add your email (user.email). This username and email will be
